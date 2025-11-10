@@ -24,7 +24,7 @@ const Navbar = () => {
             className="w-12 h-12 rounded-full border-2 border-blue-500"
           />
           <a href="#home" className="text-xl md:text-2xl font-bold text-blue-600">
-            RAGASREE THATIPAMULA
+            MUDAVATH MANOJ KUMAR
           </a>
         </div>
 
