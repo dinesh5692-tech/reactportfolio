@@ -1,4 +1,4 @@
-🌟 Ragasree Thatipamula – Developer Portfolio
+🌟 Mudavath Manoj Kumar – Developer Portfolio
 
 Welcome to my personal developer portfolio website!  
 
