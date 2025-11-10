@@ -19,7 +19,13 @@ const Experience = () => {
       title: 'Intermediate',
       organization: 'Narayana Junior College, Hyderabad, India',
       period: 'Aug 2015 - July 2027',
-      details: ['Built a solid foundation in core computer science concepts such as programming, data structures, and algorithms through hands-on coursework and projects.','Gained practical knowledge of operating systems, computer networks, and database management systems, understanding how they function in real-world applications.','Developed hands-on experience in software development using object-oriented programming principles and worked on building web-based applications.','Worked on various academic projects, including website development, data-driven applications, and small-scale software tools that simulated real-world use cases.'],
+      details: [''],
+    },
+    {
+      title: 'School',
+      organization: 'Defence Laboratories School, Hyderabad, India',
+      period: 'Jun 2014 - Jun 2015',
+      details: [''],
     },
   ];
 
