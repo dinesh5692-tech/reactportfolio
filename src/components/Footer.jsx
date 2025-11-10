@@ -38,7 +38,7 @@ const Footer = () => {
           href="#" 
           className="text-white underline ml-1"
         >
-          Ragasree
+          Manoj Kumar
         </a>
       </div>
 	
