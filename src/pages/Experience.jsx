@@ -25,16 +25,16 @@ const Experience = () => {
 
   const experience = [
     {
-      title: 'System Engineer | Software Engineer',
-      organization: 'Infosys Ltd.Hyderabad,INDIA',
-      period: 'Sept 2021 - July 2023',
+      title: 'Front End Developer',
+      organization: 'ITSS Global.Hyderabad,INDIA',
+      period: 'Nov 2021 - Mar 2024',
       details: [' Resolved an average of 20 technical issues per week by applying streamlined support procedures, contributing to high customer satisfaction and aligning solution delivery with evolving stakeholder needs.','Monitored and optimized technical systems to achieve a 15% reduction in system downtime, integrating automated processes and demonstrating principles of scalable framework development.','Collaborated with cross-functional teams to identify process improvements, streamlining workflows and enhancing overall team productivity while adapting solutions to business requirements.','Enhanced user interface experiences with front-end technologies (HTML, CSS, React) to improve user satisfaction and directly support business teams in visualizing solutions.','Ensured smooth deployments through coordinated post-release checkouts, aligning rapid response practices with both immediate and long-term process improvement initiatives.','Identified and escalated system vulnerabilities to improve overall security posture, reflecting an engineering approach to safeguard critical infrastructure.'],
     },
     {
-      title: 'Data Analyst Intern',
-      organization: 'The SmartBridge',
-      period: 'April 2019 - July 2019',
-      details: ['Conducted thorough examinations of hospital patient records and integrated diverse healthcare databases using statistical techniques','supporting evidence-based decision-making and resource optimization.','Aggregated and synthesized healthcare datasets to facilitate data-driven decision-making processes that streamlined operational workflows.','Analyzed patient records to identify trends in treatment effectiveness, adapting insights to optimize resource allocation.','Enhanced data validation procedures to improve the accuracy and reliability of medical data, aligning analytical processes with improved healthcare delivery.'],
+      title: 'Embedded software Engineer Intern',
+      organization: 'KPIT Technologies',
+      period: 'July 2021 - Sept 2021',
+      details: ['Worked on Embedded C programming for automotive control modules,Developed and tested firmware according to AUTOSAR standards.','Assisted in writing device driver level code for microcontrollers.','Performed unit testing, debugging, and code optimization using industry tools.','Collaborated with senior engineers to understand CAN communication protocols and ECU behavior.','Used tools like Git, Vector CANoe, and JTAG debuggers during development.'],
     },
   ];
 
