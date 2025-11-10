@@ -8,7 +8,7 @@ const Footer = () => {
 
         {/* Left Section */}
         <div className="mb-8 md:mb-0">
-          <h1 className="text-2xl font-bold mb-4">RAGASREE THATIPAMULA</h1>
+          <h1 className="text-2xl font-bold mb-4">MUDAVATH MANOJ KUMAR</h1>
           <p className="max-w-lg text-white-400">
             A Web developer with a Front-end focus creates the front end of websites and web apps, which contributes to the overall product's success.
           </p>
@@ -18,13 +18,13 @@ const Footer = () => {
         <div>
           <h2 className="text-xl font-bold mb-4">SOCIAL</h2>
           <div className="flex gap-6">
-            <a href="https://www.linkedin.com/in/ragasree-thatipamula-4a83a2184" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.linkedin.com/in/mudavath-manoj-kumar-bb40521b9" target="_blank" rel="noopener noreferrer">
               <FaLinkedin className="hover:text-blue-500" size={24} />
             </a>
-            <a href="https://github.com/ragasree123" target="_blank" rel="noopener noreferrer">
+            <a href="https://github.com/mchouhan5692" target="_blank" rel="noopener noreferrer">
               <FaGithub className="hover:text-blue-500" size={24} />
             </a>
-            <a href="https://x.com/Ragasree10" target="_blank" rel="noopener noreferrer">
+            <a href="https://x.com/manojna26357772" target="_blank" rel="noopener noreferrer">
               <FaTwitter className="hover:text-blue-500" size={24} />
             </a>
           </div>
