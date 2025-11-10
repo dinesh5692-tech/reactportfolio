@@ -10,10 +10,10 @@ const Experience = () => {
 
   const education = [
     {
-      title: 'Master of Science in Computer Science',
-      organization: 'University of North Texas, USA',
-      period: 'Aug 2023 - May 2025',
-      details: ['Software Development for Artificial Intelligence (AI) — AI application development and deployment.','Big Data and Data Science — Data processing, distributed computing, and data analysis techniques.','Data Visualization — Interactive and meaningful data representation using modern visualization tools.','Software Engineering — Software development life cycle, agile methodologies, testing, and debugging.','Information Retrieval — Search engine algorithms, indexing, and ranking systems.', 'Computer Networks — TCP/IP stack, networking protocols, network security, and communications.','Computer Architecture — Processor design, memory management, and hardware-software optimization.','High Volume Storage & Data Retrieval — Managing and retrieving data from large-scale storage systems.','Fundamentals of Databases — Database design, SQL, normalization, and transaction management.','Design and Analysis of Algorithms — Algorithm design techniques including dynamic programming and complexity analysis.','Introduction to Computer Security — Encryption, authentication, and securing systems against vulnerabilities.'],
+      title: 'Bachelor of Engineering in CS',
+      organization: 'Sphoorthy Engineering College, Hyderabad, India',
+      period: 'Aug 2019 - Aug 2022',
+      details: ['Built a solid foundation in core computer science concepts such as programming, data structures, and algorithms through hands-on coursework and projects.','Gained practical knowledge of operating systems, computer networks, and database management systems, understanding how they function in real-world applications.','Developed hands-on experience in software development using object-oriented programming principles and worked on building web-based applications.','Worked on various academic projects, including website development, data-driven applications, and small-scale software tools that simulated real-world use cases.']
     },
     {
       title: 'Bachelor of Engineering in CS',
