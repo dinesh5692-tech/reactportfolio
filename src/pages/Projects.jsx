@@ -17,8 +17,8 @@ const Projects = () => {
       description:
         "A personal portfolio to showcase my skills, experience, and projects with smooth navigation and responsive design.",
       tech: ["React", "Tailwind", "Html","CSS","JavaScript"],
-      github: "https://github.com/ragasree123/reactportfolio",
-      live: "https://ragasree-thatipamula.netlify.app/",
+      github: "https://github.com/mchouhan5692/reactportfolio",
+      live: "https://github.com/mchouhan5692.netlify.app/",
       image: "/project2.png", // Replace with project image
     },
     {
