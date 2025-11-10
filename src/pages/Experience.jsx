@@ -19,13 +19,13 @@ const Experience = () => {
       title: 'Intermediate',
       organization: 'Narayana Junior College, Hyderabad, India',
       period: 'Aug 2015 - July 2027',
-   
+       details:[''],
     },
     {
       title: 'School',
       organization: 'Defence Laboratories School, Hyderabad, India',
       period: 'Jun 2014 - Jun 2015',
-     
+      details:[''],
     },
   ];
 
