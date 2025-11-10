@@ -14,7 +14,7 @@ const Hero = () => {
         <div className="flex flex-col gap-6">
           <p className="text-gray-400 text-xl">Hey, There I'm</p>
           <h1 className="text-4xl md:text-5xl font-extrabold">
-            Ragasree <span>Thatipamula</span>
+            Mudavath <span>Manoj Kumar</span>
           </h1>
           <h2 className="text-3xl md:text-4xl text-blue-500 font-semibold">
             <TypeAnimation
