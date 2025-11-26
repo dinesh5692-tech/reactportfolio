@@ -4,8 +4,7 @@ Welcome to my personal developer portfolio website!
 
 This is a modern, responsive portfolio built using React and Tailwind CSS to showcase my skills, projects, and contact information.
 
-🔗 Live Site:https://ragasree-thatipamula.netlify.app
-
+🔗 Live Site:https://mudavathmanojkumar-frontend-developer.vercel.app
 ✨ Features
 
 - ⚡ Smooth and responsive user interface
